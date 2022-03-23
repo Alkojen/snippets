@@ -1,0 +1,36 @@
+{
+	// Place your snippets for html here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Simple html5": {
+		"prefix": "xhtml",
+		"body": [
+			"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>",
+			"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"",
+			"\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">",
+			"<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\">",
+			"<head>",
+			"<meta charset=\"UTF-8\">",
+			"<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">",
+			"<meta name=\"description\" content=\"Descripción de la web\">",
+			"<meta name=\"keywords\" content=\"Palabras clave separadas por comas para el motor de búsqueda.\">",
+			"<meta name=\"author\" content=\"José Pedro Morgado López\">",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"<title></title>",
+			"</head>",
+			"<body>",
+			"</body>",
+			"</html>",
+		]
+	}
+}
