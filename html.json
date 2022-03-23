@@ -26,6 +26,7 @@
 			"\t<meta name=\"keywords\" content=\"Palabras clave separadas por comas para el motor de búsqueda.\">",
 			"\t<meta name=\"author\" content=\"José Pedro Morgado López\">",
 			"\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"\t<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">"
 			"\t<title></title>",
 			"</head>",
 			"<body>",
