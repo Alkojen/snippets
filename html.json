@@ -12,7 +12,7 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Simple html5": {
+	"Alkojen xhtml": {
 		"prefix": "xhtml",
 		"body": [
 			"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>",
